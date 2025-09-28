@@ -16,7 +16,7 @@ function App() {
 
 
   return <div>
-    <h1>Hello World</h1>
+    <h1 className="text-5xl bg-red-600">Hello World</h1>
     <h1>Not Hello World</h1>
     <p>My name is {name} and I am {a} years old.</p>
     <button onClick={abc}>Change anything</button>
